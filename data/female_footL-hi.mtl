@@ -1,0 +1,30 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  3.5.10.1242
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl metatarsal_L
+Ka 0 0 0
+Kd 0.921569 0.909804 0.827451
+Ks 0 0 0
+illum 2
+Ns 8
+map_Kd legL-color.jpg
+
+newmtl phalanx_foot_L
+Ka 0 0 0
+Kd 0.921569 0.909804 0.827451
+Ks 0 0 0
+illum 2
+Ns 8
+map_Kd legL-color.jpg
+
+newmtl tarsal_L
+Ka 0 0 0
+Kd 0.921569 0.909804 0.827451
+Ks 0 0 0
+illum 2
+Ns 8
+map_Kd legL-color.jpg
